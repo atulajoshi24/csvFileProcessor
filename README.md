@@ -26,7 +26,8 @@ Steps To Compile and Run Program :
 
 3)Compile Java Programme :  
 
-javac -d classes src\com\atul\fileprocessor\domain\*.java src\com\atul\fileprocessor\util\*.java src\com\atul\fileprocessor\*.java
+javac -d classes src\com\atul\fileprocessor\domain\*.java src\com\atul\fileprocessor\util\*.java 
+src\com\atul\fileprocessor\*.java
 
 4)Execute the java program by giving all required parameters : 
 
